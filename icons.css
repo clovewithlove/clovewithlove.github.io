@@ -1,0 +1,63 @@
+/*.fa-4x {
+	color:#8ACFC5;
+}
+*/
+.footer-container{
+	background-color:#A4EDE4;
+}
+
+.text-center:after{
+	background-color:#A4EDE4;
+}
+
+.clover_1{
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	color: #A4EDE4;
+}
+
+.btn-primary {
+    color: #A4EDE4;
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.product-title {
+	color:black;
+}
+
+.hp-logo {
+  max-width:25%;
+  height: auto;
+}
+
+h1 {
+	font-size:3em;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+h2 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+h3 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+h4 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.signup-form {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.footer-input-text {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+body {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important;
+}
+
